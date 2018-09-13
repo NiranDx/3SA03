@@ -32,8 +32,8 @@
   user-select: none;
  }
  .activeCard {
-  color: red;
-  background: pink;
+  color: blue;
+  background: skyblue;
  }
 
 @keyframes App-logo-spin {
